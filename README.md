@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ClosetCoderSad
 - 👀 I’m interested in Software Development, AI and Machine Learning
-- 🌱 I’m currently learning ReactJs for front-end web development
+- 🌱 I’m currently learning MERN for full stack web development
 - 💞️ I’m looking to collaborate on projects and contribute to open-source projects.
 - 📫 How to reach me Linkedin - Md Abrar Al Zabir Instagram - ab.rark
 - 😄 Pronouns: he/him
