@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ClosetCoderSad
 - 👀 I’m interested in Software Development, AI and Machine Learning
-- 🌱 I’m currently learning MERN for full stack development
+- 🌱 I’m a full-stack developer expanding my tech stack in various technologies. Currently learning AWS.
 - 💞️ I’m looking to collaborate on projects and make open-source contributions.
 - 📫 How to reach me Linkedin - Md Abrar Al Zabir Instagram - ab.rark
 - 😄 Pronouns: he/him
