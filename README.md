@@ -1,5 +1,5 @@
 # Hey there, I'm Abrar 👋
-I'm a **Computer Science** freshman at the **University of Texas at Dallas (UTD)** and a **Software Developer** with experience in full-stack development using the MERN Stack along with a focus on learning **AI & ML**. I love building web apps, solving problems, and learning new technologies.
+I'm a **Computer Science** freshman at the **University of Texas at Dallas (UTD)** and a **Software Developer** with experience in full-stack development using the MERN Stack, along with a focus on learning **AI & ML**. I love building web apps, solving problems, and learning new technologies.
 
 - 🌱 Learning: **Cloud Computing**, **Machine Learning**
 - 👯 Looking to collaborate on: **React** and **MERN stack** projects
@@ -8,7 +8,7 @@ I'm a **Computer Science** freshman at the **University of Texas at Dallas (UTD)
 ---
 
 ## 🚀 Tech Stack
-**Languages**
+**Languages:**
 - Python
 - C++
 - JavaScript
@@ -29,7 +29,6 @@ I'm a **Computer Science** freshman at the **University of Texas at Dallas (UTD)
 - VS Code
 - Netlify/Vercel
 
-
 ---
 
 ## 📈 GitHub Stats
@@ -49,11 +48,6 @@ I'm a **Computer Science** freshman at the **University of Texas at Dallas (UTD)
 - [LinkedIn](https://www.linkedin.com/in/md-abrar-al-zabir)
 - [Email](mailto:abrarroll2@gmail.com)
 
----
-
-## 📊 Top Languages I Use
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbrarAlZabir&layout=compact&theme=radical)
 
 <!---
 ClosetCoderSad/ClosetCoderSad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
