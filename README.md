@@ -33,13 +33,13 @@ I'm a **Computer Science** freshman at the **University of Texas at Dallas (UTD)
 
 ## 📈 GitHub Stats
 
-![Abrar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbrarAlZabir&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+![Abrar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ClosetCoderSad&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=AbrarAlZabir&theme=onedark&column=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=ClosetCoderSad&theme=onedark&column=4)
 
 ---
 
