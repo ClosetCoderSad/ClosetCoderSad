@@ -39,10 +39,6 @@ I'm a **Computer Science** freshman at the **University of Texas at Dallas (UTD)
 
 ---
 
-## 📊 Top Languages I Use
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ClosetCoderSad&layout=compact&theme=radical)
-
 <!---
 ClosetCoderSad/ClosetCoderSad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
