@@ -37,8 +37,6 @@ I'm a **Computer Science** freshman at the **University of Texas at Dallas (UTD)
 ## 🔗 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ab.rark/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-abrar-al-zabir)  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abrarroll2@gmail.com)
 
----
-
 <!---
 ClosetCoderSad/ClosetCoderSad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
