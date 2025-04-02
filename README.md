@@ -1,7 +1,7 @@
 # Hey there, I'm Abrar 👋
 I'm a **Computer Science** freshman at the **University of Texas at Dallas (UTD)** and a **Software Developer** with experience in full-stack development using the MERN Stack, along with a focus on learning **AI & ML**. I love building web apps, solving problems, and learning new technologies.
 
-- 🌱 Learning: **Cloud Computing**, **Machine Learning**
+- 🌱 Learning: **Cloud Computing**
 - 👯 Looking to collaborate on: **React** and **MERN stack** projects
 - ⚡ Fun fact: I code inside a closet and try to overcome chronic sadness from time to time.
 
