@@ -30,7 +30,7 @@ I'm a **Computer Science** freshman at the **University of Texas at Dallas (UTD)
 
 ## 🏆 GitHub Trophies
 
-
+![Trophies](https://github-profile-trophy.vercel.app/?username=ClosetCoderSad&theme=onedark&column=4)
 
 ---
 
