@@ -25,7 +25,7 @@ I'm a **Computer Science** major at the **University of Texas at Dallas (UTD)** 
 
 ## 📈 GitHub Stats
 
-![Abrar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ClosetCoderSad&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+![Abrar's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ClosetCoderSad&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
 ---
 
