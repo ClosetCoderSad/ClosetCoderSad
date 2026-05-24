@@ -3,7 +3,6 @@ I'm a **Computer Science** major at the **University of Texas at Dallas (UTD)** 
 
 - 🌱 Learning: **Cloud Computing**
 - 👯 Looking to collaborate on: **Full-Stack** and **AI/ML** projects
-- ⚡ Fun fact: I code inside a closet and try to overcome chronic sadness from time to time.
 
 ---
 
